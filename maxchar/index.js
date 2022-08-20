@@ -18,3 +18,5 @@ function maxChar(str) {
 }
 
 console.log(maxChar('1337'));
+
+// The time complexity is O(N)
